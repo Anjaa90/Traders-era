@@ -109,7 +109,7 @@
                         
                         
                         <br>
-                        <a href="https://tradersera.com/blogs/">
+                        <a href="">
                             <h4 class="mb-6 mb-lg-8">Blogs</h4>
                         </a>
                         <br>

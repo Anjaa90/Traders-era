@@ -282,7 +282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-nav"><a
-                                    class="dropdown-item" href="https://tradersera.com/blogs">Blog</a></button>
+                                    class="dropdown-item" href="">Blog</a></button>
                         </li>
                     </ul>
                 </div>
